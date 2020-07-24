@@ -1,1 +1,0 @@
-gcc -o zoomb0i -Og src/main.c src/cpu.c src/ppu.c src/utils.c src/input.c src/rom.c -lmingw32 -lSDL2main -lSDl2 -lSDL2_ttf
